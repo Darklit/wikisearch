@@ -1,0 +1,14 @@
+{
+  "name": "monogomaybe",
+  "version": "1.0.0",
+  "description": "Just testing stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Darklit",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}
